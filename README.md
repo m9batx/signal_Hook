@@ -49,7 +49,12 @@ The project is intended for experimenting with and analyzing RF signals using th
 
 The Arduino communicates with the nRF24L01+ module over SPI. The RF24 library is used to configure and communicate with the radio module.
 
+<img width="668" height="449" alt="Screenshot 2025-04-08 053628" src="https://github.com/user-attachments/assets/2de170d0-1ae2-47e1-b7bb-7fd10a2c70fb" />
+
+
 The sniffer can be used as a learning and experimentation platform for observing RF activity in the supported nRF24L01+ frequency range.
+
+Flashing the "signal_Hook.ino" on the Arduino
 
 ## Reference
 
